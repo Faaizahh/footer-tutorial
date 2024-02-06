@@ -278,7 +278,7 @@ footer .bottom-details .bottom_text {
     }
 }
 
-@media(max-width:520px) {
+/* @media(max-width:520px) {
     footer::before {
         top: 145px;
     }
@@ -298,4 +298,4 @@ footer .bottom-details .bottom_text {
     footer .content .link-boxes .input-box {
         width: 100%;
     }
-}
+} */
